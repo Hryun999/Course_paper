@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilahb\\Desktop\\Course_paper\\kyrsach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEC994F-9FD2-4216-BCB3-4507E1CD1CD7}|kyrsach\\kyrsach.vcxproj|C:\\Users\\ilahb\\Desktop\\Course_paper\\kyrsach\\kyrsach\\kyrsach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAEC994F-9FD2-4216-BCB3-4507E1CD1CD7}|kyrsach\\kyrsach.vcxproj|solutionrelative:kyrsach\\kyrsach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kyrsach.cpp",
+              "DocumentMoniker": "C:\\Users\\ilahb\\Desktop\\Course_paper\\kyrsach\\kyrsach\\kyrsach.cpp",
+              "RelativeDocumentMoniker": "kyrsach\\kyrsach.cpp",
+              "ToolTip": "C:\\Users\\ilahb\\Desktop\\Course_paper\\kyrsach\\kyrsach\\kyrsach.cpp",
+              "RelativeToolTip": "kyrsach\\kyrsach.cpp",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAiwHMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T11:17:59.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

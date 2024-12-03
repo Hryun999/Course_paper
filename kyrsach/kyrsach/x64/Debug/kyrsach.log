@@ -1,0 +1,8 @@
+﻿  kyrsach.cpp
+C:\Users\ilahb\Desktop\Course_paper\kyrsach\kyrsach\kyrsach.cpp(30,58): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\ilahb\Desktop\Course_paper\kyrsach\kyrsach\kyrsach.cpp(30,58): warning C4267:         with
+C:\Users\ilahb\Desktop\Course_paper\kyrsach\kyrsach\kyrsach.cpp(30,58): warning C4267:         [
+C:\Users\ilahb\Desktop\Course_paper\kyrsach\kyrsach\kyrsach.cpp(30,58): warning C4267:             _Ty=int
+C:\Users\ilahb\Desktop\Course_paper\kyrsach\kyrsach\kyrsach.cpp(30,58): warning C4267:         ]
+C:\Users\ilahb\Desktop\Course_paper\kyrsach\kyrsach\kyrsach.cpp(85,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  kyrsach.vcxproj -> C:\Users\ilahb\Desktop\Course_paper\kyrsach\x64\Debug\kyrsach.exe
